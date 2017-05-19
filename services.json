@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"If any of these steps do not occur in a normal manner, your PC may not boot up as you would expect. Knowing the steps in the boot process will help you when trouble-shooting or analyzing problems with your PC.",
+    "image":"computer-icon.png"
+  },
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"If any of these steps do not occur in a normal manner, your PC may not boot up as you would expect. Knowing the steps in the boot process will help you when trouble-shooting or analyzing problems with your PC.",
+    "image":"computer-icon.png"
+  },
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"If any of these steps do not occur in a normal manner, your PC may not boot up as you would expect. Knowing the steps in the boot process will help you when trouble-shooting or analyzing problems with your PC.",
+    "image":"computer-icon.png"
+  }
+  ]

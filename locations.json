@@ -1,0 +1,33 @@
+[
+  {
+  "id":1,
+  "name":"lubbock solutions",
+    "street_address":"201,IndianaAve",
+    "city":"lubbock",
+    "state":"Texas",
+    "zip":"79415",
+    "phone":"8066206961"
+  },
+
+
+  {
+    "id":2,
+    "name":"Expert solutions",
+    "street_address":"206, Akron",
+    "city":"Austin",
+    "state":"Texas",
+    "zip":"79457",
+    "phone":"8066206968"
+
+  },
+  {
+    "id":3,
+    "name":"hardware solutions",
+  "street_address":"208,Plano",
+  "city":"Dallas",
+  "state":"Texas",
+  "zip":"79439",
+  "phone":"8066206967"
+
+
+}]
